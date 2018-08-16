@@ -1,4 +1,9 @@
 # nodejs
+<<<<<<< HEAD
+=======
+This is my repository for learning materials for the node.js technology completed alongside the codewithmosh node.js tutorial.
+
+>>>>>>> f4e33565b7e729054db7efc2f70a7f53134ea3f1
 
 This is my repository for source code and learning materials for the node.js technology completed alongside the codewithmosh node.js tutorial.
 
@@ -628,4 +633,9 @@ price: {
 // 401 Unauthorized
 // 403 Forbidden
 // 404 Page not found
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> f4e33565b7e729054db7efc2f70a7f53134ea3f1
 ```
