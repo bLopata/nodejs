@@ -1,0 +1,26 @@
+{
+  "editor.fontSize": 13.5,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "breadcrumbs.enabled": true,
+
+  "window.zoomLevel": -1,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "files.associations": {
+    "*.dir": "cpp",
+    "*.run": "powershell"
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "workbench.panel.defaultLocation": "right",
+  "terminal.integrated.cursorBlinking": true,
+  "eslint.run": "onType",
+  "eslint.autoFixOnSave": true,
+  "workbench.colorTheme": "Default High Contrast",
+  "git.autofetch": true,
+  "markdown-checkbox.withBulletPoint": false,
+  "window.titleBarStyle": "custom",
+}
