@@ -1,5 +1,5 @@
 # nodejs
-This is my repository for source code and learning materials for the node.js technology completed alongside the codewithmosh node.js tutorial.
+This is my repository for learning materials for the node.js technology completed alongside the codewithmosh node.js tutorial.
 
 
 
