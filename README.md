@@ -251,7 +251,7 @@ new mongoose.Schema({
 });
 ```
 
-Validation logic is executed by Mongoose priortosaving a document to thedatabase.You can also trigger it manually by calling the validate() method.
+Validation logic is executed by Mongoose prior to saving a document to the database.You can also trigger it manually by calling the validate() method.
 
 ```javascript
 // Custom validation
@@ -425,29 +425,13 @@ let author = {
 
 let course = {
     author: {
-        id: 'ref,
+        id: 'ref',
         name: 'Mosh'
     }
 }
 ```
 
 # Tips
-
-### [Object destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Object_destructuring)
-
-Instead of saving the result of a function into a constant called `result`, and accessing `result.error` we can simply define error as a property.
-so,
-
-```javascript
-const result = validateCourse(req.body);
-result.error = valdiateCourse(req.body);
-```
-
-becomes
-
-```javascript
-const { error } = validateCourse(req.body);
-```
 
 ### [Environment variables](https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html)
 
